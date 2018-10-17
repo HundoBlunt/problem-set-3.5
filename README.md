@@ -8,7 +8,7 @@ To get started, you'll need to create a [GitHub](https://github.com/) repository
 
 ### Setup
 
-01. Login to your [GitHub](https://github.com/) account and create a new repository named `problem-set-3.5`.
+01. Login to your [GitHub](https://github.com/) account and create a new rep ository named `problem-set-3.5`.
 02. In Git Bash, navigate to your `APCSP` folder.
 ```
 cd ~/Desktop/APCSP
