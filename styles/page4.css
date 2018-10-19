@@ -1,0 +1,29 @@
+body {
+  background-image: linear-gradient(#ac00e6,#00BFFF);
+}
+
+a {
+  color: #ffffff
+
+}
+a:hover {
+    background-color: #B0AEAF;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  h1 {
+     color: white;
+      font-size: 40px;
+      font-style:normal;
+      font-weight: lighter;
+      text-decoration:underline overline dotted white;
+    }
+    img {
+       padding:1px;
+       border:1px solid #021a40;
+       background-color:#ff0;
+    }

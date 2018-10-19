@@ -3,8 +3,11 @@ body {
 }
 a {
   color: #ffffff
-
 }
+  a:hover {
+      background-color: #B0AEAF;
+  }
+
 .topnav {
   display: flex;
 
@@ -23,7 +26,17 @@ h1 {
     font-weight: lighter;
     text-decoration: underline;
 }
-h2{
-    color: #ffecb3;
-
+img {
+   padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0;
+}
+.intro {
+    border: 5px solid yellow;
+}
+a[target="Welcome to DIYFunFun"] {
+    background-color: yellow;
+}
+#border {
+  border:5px;
 }
