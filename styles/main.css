@@ -40,3 +40,6 @@ a[target="Welcome to DIYFunFun"] {
 #border {
   border:5px;
 }
+* { 
+    background-color: white;
+}
