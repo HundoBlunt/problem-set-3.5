@@ -26,4 +26,6 @@ p {
 #border {
   border:5px;
 }
-
+div p {
+    background-color: white;
+}
