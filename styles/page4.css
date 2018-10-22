@@ -27,3 +27,6 @@ body {
        border:1px solid #021a40;
        background-color:#ff0;
     }
+div p {
+    background-color: white;
+}
