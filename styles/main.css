@@ -35,11 +35,11 @@ img {
     border: 5px solid yellow;
 }
 a[target="Welcome to DIYFunFun"] {
-    background-color: yellow;
+    background-color: red;
 }
 #border {
   border:5px;
 }
 * { 
-    background-color: white;
+    background-color: red;
 }
