@@ -41,5 +41,5 @@ a[target="Welcome to DIYFunFun"] {
   border:5px;
 }
 * { 
-    background-color: red;
+    background-image: linear-gradient(#EE9F9F, #800000);
 }
