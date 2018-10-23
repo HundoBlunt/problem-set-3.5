@@ -6,7 +6,7 @@ a {
 
 }
 a:hover {
-    background-color: #B0AEAF;
+    background-color: #30302e;
 }
 body {
     height: 100%;
@@ -23,15 +23,12 @@ h1 {
   }
   img {
      padding:1px;
-     border:1px solid #021a40;
-     background-color:#ff0;
+     border:1px solid #0066cc;
+     background-color:#0066cc;
   }
   .intro {
-      border: 5px solid yellow;
+      border: 5px solid #0066cc;
 }
 #border {
   border:5px;
-}
-div p {
-    background-color: white;
 }

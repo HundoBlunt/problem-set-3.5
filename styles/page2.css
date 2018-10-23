@@ -6,7 +6,7 @@ a {
 
 }
 a:hover {
-    background-color: #B0AEAF;
+    background-color: #30302e;
 }
 p {
    color: #77EB65;
@@ -25,7 +25,4 @@ p {
 }
 #border {
   border:5px;
-}
-div p {
-    background-color: white;
 }

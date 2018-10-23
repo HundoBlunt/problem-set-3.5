@@ -7,7 +7,7 @@ a {
 
 }
 a:hover {
-    background-color: #B0AEAF;
+    background-color: #30302e;
 }
 body {
     height: 100%;
@@ -27,6 +27,3 @@ body {
        border:1px solid #021a40;
        background-color:#ff0;
     }
-div p {
-    background-color: white;
-}
